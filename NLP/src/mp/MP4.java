@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class MP4 {
 
 	public static void main(String[] args) throws IOException{
-		
+		//try
 		FileReader fr = new FileReader("C:\\Users\\DionDion\\workspace\\NLP\\src\\mp\\word.txt");
 		FileReader input= new FileReader("C:\\Users\\DionDion\\workspace\\NLP\\src\\mp\\input.txt");
 
